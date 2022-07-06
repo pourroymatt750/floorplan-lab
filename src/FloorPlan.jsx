@@ -6,10 +6,10 @@ import Sink from "./Sink"
 
 const FloorPlan = (props) => {
     return (
-        <>
+        <div>
             <Kitchen />
             <LivingRoom />
-        </>
+        </div>
         
     )
 }
